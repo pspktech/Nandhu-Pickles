@@ -4,6 +4,10 @@ Nandhu Pickles — Online pickle ordering website with direct WhatsApp orders. �
 
 A simple and user-friendly online platform for Nandhu Pickles where customers can explore pickle products and place orders directly through WhatsApp.
 
+Important: Add and edit your WhatsApp number with +91××××××××× every item pickles and deploy 
+
+Demo : https:nandhupickles.netlify.app
+
 ✨ Features
 
 - 🥒 Browse pickle products
