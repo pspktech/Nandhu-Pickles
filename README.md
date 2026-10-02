@@ -6,7 +6,7 @@ A simple and user-friendly online platform for Nandhu Pickles where customers ca
 
 Important: Add and edit your WhatsApp number with +91××××××××× every item pickles and deploy 
 
-Demo : https:nandhupickles.netlify.app
+Demo : https://nandhupickles.netlify.app
 
 ✨ Features
 
